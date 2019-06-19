@@ -1,0 +1,6 @@
+usr/local/bin/mastercorecoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/mastercorecoin-qt.desktop usr/share/applications
+debian/mastercorecoin-qt.protocol usr/share/kde4/services/
