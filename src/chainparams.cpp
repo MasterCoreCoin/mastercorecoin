@@ -167,6 +167,16 @@ public:
         vSeeds.push_back(CDNSSeedData("198.13.38.119", "198.13.38.119"));
         vSeeds.push_back(CDNSSeedData("45.77.21.70", "45.77.21.70"));
         vSeeds.push_back(CDNSSeedData("45.32.39.247", "45.32.39.247"));
+        vSeeds.push_back(CDNSSeedData("45.32.36.18", "45.32.36.18"));
+        vSeeds.push_back(CDNSSeedData("202.182.101.162", "202.182.101.162"));
+        vSeeds.push_back(CDNSSeedData("149.28.31.156", "149.28.31.156"));
+        vSeeds.push_back(CDNSSeedData("149.28.19.210", "149.28.19.210"));
+        vSeeds.push_back(CDNSSeedData("107.191.53.220", "107.191.53.220"));
+        vSeeds.push_back(CDNSSeedData("45.77.183.241", "45.77.183.241"));
+        vSeeds.push_back(CDNSSeedData("45.76.52.233", "45.76.52.233"));
+        vSeeds.push_back(CDNSSeedData("198.13.37.49", "198.13.37.49"));
+        vSeeds.push_back(CDNSSeedData("45.77.29.239", "45.77.29.239"));
+        vSeeds.push_back(CDNSSeedData("45.63.121.56", "45.63.121.56"));
 
         fMiningRequiresPeers           = true;
         fAllowMinDifficultyBlocks      = false;
